@@ -7,7 +7,8 @@ intall packages
                     re use functionalities
 in controller folder - connect model to controller(create,delete,update)
 in middlewear folder - error middlewear
-in routes 
+in routes - post out
+            get
 
 
 
