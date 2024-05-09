@@ -5,6 +5,9 @@ intall packages
  2. npm i dotenv
  in config folder - create DB connection
                     re use functionalities
-in controller folder - connect model to controller
+in controller folder - connect model to controller(create,delete,update)
+in middlewear folder - error middlewear
+in routes 
+
 
 
